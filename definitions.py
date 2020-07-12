@@ -7,7 +7,7 @@ from build import ColorSplit
 colorNone = ColorSplit("#000000").set_alpha(0)
 colorWhite = ColorSplit("#ffffff")
 colorBlack = ColorSplit("#000000")
-colorGrey = ColorSplit("#bec9d3", "#2e2e37")
+colorGrey = ColorSplit("#bec9d3", "#acacd0")
 colorGreyStrong = ColorSplit("#6b7a88", "#a8a8b1")
 colorGreyLight = ColorSplit("#e7ecf2", "#1e1d27")
 colorGreyOnBlack = ColorSplit("#65696e", colorGrey)
